@@ -17,7 +17,7 @@ esto es equivalente al anterior
     ?>
     ```
 
-2. ahora creamos un `tr` con sus dos respectivos `td`, usando la primera opción anterior
+2. usando la primera opción anterior, ahora creamos un `tr` con sus dos respectivos `td`
     ```php
     <table>
         <tr>
